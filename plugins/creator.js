@@ -11,18 +11,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner Zifabotz tidak menerima save contact
-• Owner Zifabotz berhak blockir tanpa alasan
+• Owner GojoBOT tidak menerima save contact
+• Owner GojoBOT berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Zifabotz Hanya merespon yang berkaitan dengan BOT
-• No Telp owner Zifabotz`
+• Owner GojoBOT Hanya merespon yang berkaitan dengan BOT
+• No Telp owner GojoBOT`
 
 //------------ BIO
 let ppown = 'https://telegra.ph/file/e8f6c7288a8d34157d54e.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* : Rozi
-❑ *Umur* : 15 Tahun
-❑ *Kelas* : 1 Sma
+❑ *Nama* : Manusia
+❑ *Umur* : Pikir Sendiri
+❑ *Kelas* : pikir sendiri
 
 ❑ *Ulang Tahun* : 4 juli 2007
 ❑ *Alamat* : Indonesia, Kalimantan barat, Pontianak
@@ -36,8 +36,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor Rozi", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata Rozi", rowId: ".owner bio"},
+	    {title: "📱 • Nomor Manusia ", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata Manusia", rowId: ".owner bio"},
 	{title: "🌎 • Script yang bot gunakan", rowId: ".sc"},
 	]
     },{
