@@ -18,14 +18,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp owner GojoBOT`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/e8f6c7288a8d34157d54e.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
 ❑ *Nama* : Manusia
 ❑ *Umur* : Pikir Sendiri
 ❑ *Kelas* : pikir sendiri
 
-❑ *Ulang Tahun* : 4 juli 2007
-❑ *Alamat* : Indonesia, Kalimantan barat, Pontianak
+❑ *Ulang Tahun* : Pikir Sendiri
+❑ *Alamat* : Indonesia, Jawatimur, Surabaya
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
